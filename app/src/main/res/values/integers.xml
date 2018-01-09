@@ -1,0 +1,4 @@
+<resources>
+    <integer name="figure_height">80</integer>
+    <integer name="figure_width">80</integer>
+</resources>
