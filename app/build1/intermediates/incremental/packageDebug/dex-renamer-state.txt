@@ -1,7 +1,0 @@
-#Fri Sep 01 15:50:05 MSK 2017
-base.0=C\:\\java\\AChess5\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_06219d6e06cfab8d9d816d2fbd489d74cce4cd1e
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\java\\AChess5\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c57b831473b77cc2fa3dcebf65f0ee8a673b2db5\\classes.dex
-base.1=C\:\\java\\AChess5\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c57b831473b77cc2fa3dcebf65f0ee8a673b2db5
-file.0=C\:\\java\\AChess5\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_06219d6e06cfab8d9d816d2fbd489d74cce4cd1e\\classes.dex

@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Мои шахматы</string>
+    <string name="developer_name">copyright @Anna Romantsova</string>
     <string name="figure_width">85</string>
  </resources>

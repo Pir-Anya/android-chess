@@ -13,6 +13,7 @@ import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
+import com.example.achess.nav.MainActivity_nav;
 
 import static com.example.achess.R.id.hod;
 
@@ -25,7 +26,7 @@ public class MainActivity extends AppCompatActivity implements OnTouchListener  
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         try {
-            setContentView(R.layout.activity_main);
+            setContentView(com.example.achess.R.layout.activity_main);
             drawView=(DrawTest)findViewById(R.id.drawTest);
             drawView.setOnTouchListener(this);
 
@@ -45,8 +46,8 @@ public class MainActivity extends AppCompatActivity implements OnTouchListener  
             View.OnClickListener oclBtnClear = new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
-                   // Toast toast = Toast.makeText(getApplicationContext(),"начать сначала",Toast.LENGTH_LONG);
-                   //toast.show();
+                    // Toast toast = Toast.makeText(getApplicationContext(),"начать сначала",Toast.LENGTH_LONG);
+                    //toast.show();
                     drawView.clear_desc();
                     drawView.invalidate();
                     v.invalidate();
@@ -63,8 +64,8 @@ public class MainActivity extends AppCompatActivity implements OnTouchListener  
 
     @Override
     public boolean onTouch(View v, MotionEvent event) {
-       // Toast toast = Toast.makeText(getApplicationContext(),String.valueOf(Math.round(event.getX())) +"  " +String.valueOf(Math.round(event.getY())) ,Toast.LENGTH_SHORT);
-       // toast.show();
+        // Toast toast = Toast.makeText(getApplicationContext(),String.valueOf(Math.round(event.getX())) +"  " +String.valueOf(Math.round(event.getY())) ,Toast.LENGTH_SHORT);
+        // toast.show();
         switch (event.getAction()) {
             case MotionEvent.ACTION_DOWN:
 
