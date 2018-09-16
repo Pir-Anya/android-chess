@@ -12,5 +12,5 @@ My first android programm - chess. Two players play one after another. Accessibl
 <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">Java</li>
 </ul>
 <h2><a id="user-content-screenshot" class="anchor" href="#screenshot" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"></svg></a>Screenshots</h2>
-<p><a href="/scr2.png" target="_blank"><img src="/scr2.png" style="max-width:50%;"></a>
-<a href="/scr1.png" target="_blank"><img src="/scr1.png" style="max-width:50%;"></a></p>
+<p><a href="/scr2.png" target="_blank"><img src="/scr2.png" style="width:40%;"></a>
+<a href="/scr1.png" target="_blank"><img src="/scr1.png" style="width:40%;"></a></p>
